@@ -141,7 +141,6 @@ setCurrentWord(quotesSplit[wordIdx]);
       </p>
       <input
         className="w-full border-black border px-4 py-2"
-        onInput={handlePause}
         onChange={(text) => setText(text.target.value)}
         value={text}
         disabled={gameState == GameState.VIEW_STATS}
