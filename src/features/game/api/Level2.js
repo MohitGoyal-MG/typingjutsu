@@ -8,7 +8,7 @@ import { Link } from "react-router-dom";
   quote[1];
 const inputId = "typingjutsu-input";
 
-export default function TypingJutsu() {
+export default function TypingjutsuPage() {
   
   const [quote, setQuote] = useState();
   const [text, setText] = useState("");
