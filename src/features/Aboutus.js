@@ -15,7 +15,7 @@ export default function AboutUsPage() {
                 At TypingJutsu, we are passionate about one thing - helping you improve your typing skills! We understand the importance of fast and accurate typing in today's digital age, where communication and productivity rely heavily on your keyboard prowess. Whether you're a student, a professional, or just someone who loves to type, TypingJutsu is the ultimate destination to assess and enhance your typing speed and accuracy.
                 </p>
               </blockquote>
-              s
+        
           </div>
        
         </section>
